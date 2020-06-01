@@ -1,0 +1,9 @@
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\bin\Debug\CoderMain.exe.config
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\obj\Debug\CoderMain.csprojResolveAssemblyReference.cache
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\obj\Debug\CoderMain.Form1.resources
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\obj\Debug\CoderMain.Properties.Resources.resources
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\obj\Debug\CoderMain.csproj.GenerateResource.Cache
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\bin\Debug\CoderMain.exe
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\bin\Debug\CoderMain.pdb
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\obj\Debug\CoderMain.exe
+c:\users\allah\documents\visual studio 2015\Projects\CoderMain\CoderMain\obj\Debug\CoderMain.pdb
